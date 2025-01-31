@@ -1,0 +1,2 @@
+curl -sSL https://raw.githubusercontent.com/username/SkyExo-Panel/main/skyexo-install.sh -o skyexo-install.sh
+ls -l skyexo-install.sh
